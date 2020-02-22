@@ -1,0 +1,36 @@
+Hello!
+
+This programm allows you to add, edit, search and delete books in your library!
+
+To add book press 'Add' on the left side of the programm screen and insert name, book and released date(released
+date should be in 'YYYY-MM-DD' format) and then press 'Add' down below
+
+Or you may add books from a file. To do that press 'Add from file'(Notice, that information in the file should be
+in format 'Author name, Book name, released date')
+
+For searching books you may use Search and choose "Searching by name", "Searching by book", "Searching by released"
+You may search for some specific book, by giving concrete infrormation (like full name or etc, or give one letter
+(or number) and it will show you all results with this letter in (or number)
+
+You may Delete book from your library by pressing 'Delete' and insert id number
+
+To Edit inforramiton about your book use 'Edit', insert id of the book that you want to edit and new parameters
+
+By pressing 'Show all' you will see all books that you have in your library for current moment
+
+'Update' gives you the opportunity to update a file and insert in it new information
+
+'Save as' gives you the opportunity to save your library in a new file
+
+'Delete all' deletes all books from your library
+
+'Exit' to exit the programm
+
+
+
+
+
+
+
+
+
